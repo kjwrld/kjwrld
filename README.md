@@ -27,7 +27,7 @@
 
 ---
 
-### codedex summer hackathon ~ gather clone
+### codedex summer hackathon ~ gather clone prototype
 
 **2D Web experiment for gamified education**
 [Repo](https://github.com/kjwrld/rpg-folio)
@@ -38,7 +38,7 @@
 
 ---
 
-## rotating platform web experiment
+## rotating platform prototype ~ web experiment
 
 [Repo](https://github.com/kjwrld/fitswitch)
 
@@ -50,7 +50,7 @@ Inspired by Xavier Jack
 
 ---
 
-### Raycasting Shader Animation
+### raycasting shader animation prototype
 
 ![Head Follows Mouse](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNqdHVqbjdpOTBza2NtczdwYWl5ZmE1MWN2ZWh0ZTliNmE5Yjd3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DiJZ9RrZeVtFVhdUnw/giphy.gif)
 
