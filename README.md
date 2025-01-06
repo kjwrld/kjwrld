@@ -1,4 +1,4 @@
-# k.os
+# kj
 
 **I am a web dev studying 3D Web technology & Motion Design 🌱**
 
