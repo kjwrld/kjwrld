@@ -7,6 +7,7 @@
     <td valign="top" width="50%">
 
 **My interests:**
+- rapid prototyping web experiences
 - hc interaces that blend practicality with innovation 🎨
 - live performance art software for music and visuals ⚡
 
