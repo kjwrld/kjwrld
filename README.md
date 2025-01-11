@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-# Consultancy
+# Rapid Prototyping
 
 **Recently, I started consulting with startups on strategy, branding, and engineering**
 
