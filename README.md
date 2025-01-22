@@ -28,7 +28,7 @@
 
 ---
 
-### codedex summer hackathon ~ gather clone prototype
+### Codedex Hackathon Submission ~ Pokemon for Learning to Code
 
 **2D Web experiment for gamified education**
 [Repo](https://github.com/kjwrld/rpg-folio)
@@ -39,19 +39,28 @@
 
 ---
 
-## rotating platform prototype ~ web experiment
+## 3D Character Configurator ~ web experiment
 
 [Repo](https://github.com/kjwrld/fitswitch)
 
 ![Rotating Platform](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1ocjNpbmhhaXI3dXU3YnUzdGgwOW5kbW9uZnBlM2U4eGZneGQ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F5ZhmsD5TksSd7KN5z/giphy.gif)
 
-Web experiment for my friend's startup [Stylar](https://www.stylar.com/browser-extension)
+Rotating Platform Web experiment for my friend's startup [Stylar](https://www.stylar.com/browser-extension)
 
 Inspired by Xavier Jack
 
 ---
 
-### raycasting shader animation prototype
+### Hand Drawn Effect on 3D objects
+
+** R3F rework of @junkiyoshi Blood Vessel of Torus **
+[Repo](https://github.com/kjwrld/blood-vessel)
+
+
+https://github.com/user-attachments/assets/dd996e2a-76c4-4c8b-8d95-72bc09af2315
+
+---
+### Raycasting Shader Animation
 
 ![Head Follows Mouse](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNqdHVqbjdpOTBza2NtczdwYWl5ZmE1MWN2ZWh0ZTliNmE5Yjd3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DiJZ9RrZeVtFVhdUnw/giphy.gif)
 
