@@ -1,6 +1,6 @@
 # kj
 
-**I am a web dev studying 3D Web technology & Motion Design 🌱**
+**I am a web dev studying Interactive UI & Motion Design 🌱**
 
 <table border="0">
   <tr>
