@@ -27,6 +27,15 @@
 **Recently, I started consulting with startups on strategy, branding, and engineering**
 
 ---
+### Mrange Rework: 3D Design Practice
+
+https://github.com/user-attachments/assets/827cc3d6-d0a2-4757-982b-968b6a34fa99
+
+- demonstrating raymarching + hci for 3D scenes + interaction design
+
+[Link](https://kjwrld.github.io/mrange-shader-rework/)
+
+---
 
 ### Codedex Hackathon Submission ~ Pokemon for Learning to Code
 
