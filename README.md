@@ -2,25 +2,10 @@
 
 **I am a web dev studying Interactive UI & Motion Design 🌱**
 
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
-
 **My interests:**
 - rapid prototyping web experiences
 - hc interaces that blend practicality with innovation 🎨
 - live performance art software for music and visuals ⚡
-
-![custom aseprite animation](https://media.giphy.com/media/p6WFcuoGbFLxTr3IE4/giphy.gif)
-
-</td>
-    <td valign="top" width="50%">
-
-![me](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RmMHV4bmFuMDRsZWs3Mjl6aW12bHEzODRvanlubXBwNTdhaG4yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/slyjIbhzkglAdw1XBS/giphy.gif)
-
-</td>
-  </tr>
-</table>
 
 # Rapid Prototyping
 
@@ -45,6 +30,8 @@ https://github.com/user-attachments/assets/827cc3d6-d0a2-4757-982b-968b6a34fa99
 [Codedex Summer Hackathon 2024 Submission](https://www.codedex.io/hackathon)
 
 ![User moving across screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3aXFxdHJrZzBhbjZnYWYwMzUxNzZ4aDFsODNqbmtmaGpyN2gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDmpRIu5fVC22YaPNu/giphy-downsized.gif)
+
+![custom aseprite animation](https://media.giphy.com/media/p6WFcuoGbFLxTr3IE4/giphy.gif)
 
 ---
 
