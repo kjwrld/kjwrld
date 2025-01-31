@@ -14,7 +14,7 @@
 ---
 ### Mrange Rework: 3D Design Practice
 
-https://github.com/user-attachments/assets/827cc3d6-d0a2-4757-982b-968b6a34fa99
+![https://github.com/user-attachments/assets/827cc3d6-d0a2-4757-982b-968b6a34fa99](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExang5cG9jNmJubmdwc3FkeW1kc3k5ZTJ1anNuYjZxbGMyNDd1Z3JocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/45qTIrADvL4tjg89ev/giphy.gif)
 
 - demonstrating raymarching + hci for 3D scenes + interaction design
 
